@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm <a href="https://yourwebsite.com/">Jacob Fu</a>.</h1>
+<h1 align="center">Hi there! I'm <a href="https://fujacob.vercel.app/">Jacob Fu</a>.</h1>
 
 ---
 
@@ -17,8 +17,8 @@ Feel free to reach out via email or connect with me on LinkedIn!
 [![MelodyVe](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=MelodyVe&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/fujacob/MelodyVe)
 [![EchoBl](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=EchoBl&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/fujacob/EchoBl)
 [![AnonAlyze](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=AnonAlyze&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/fujacob/AnonAlyze)
-[![Robo Investment Portfolio Generator](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=Robo-Investment-Portfolio-Generator&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/fujacob/Robo-Investment-Portfolio-Generator)
-[![Novel Novels](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=Novel-Novels&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/fujacob/Novel-Novels)
+[![Robo Investment Portfolio Generator](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=Robo-Investment-Portfolio-Generator&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/FuJacob/RoboInvestmentAdvisor/)
+[![Novel Novels](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=Novel-Novels&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/FuJacob/NovelNovels)
 
 ---
 
