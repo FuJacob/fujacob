@@ -19,7 +19,7 @@ Feel free to reach out via email or connect with me on LinkedIn!
 [![AnonAlyze](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=AnonAlyze&theme=rose_pine&icon_color=6a5acd&hide_border=true&timestamp=1)](https://github.com/fujacob/AnonAlyze)
 [![Robo Investment Portfolio Generator](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=RoboInvestmentAdvisor&theme=rose_pine&icon_color=6a5acd&hide_border=true&timestamp=1)](https://github.com/fujacob/RoboInvestmentAdvisor)
 [![Novel Novels](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=NovelNovels&theme=rose_pine&icon_color=6a5acd&hide_border=true&timestamp=1)](https://github.com/fujacob/NovelNovels)
-[![Portfolio Site](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=jacobfu&theme=rose_pine&icon_color=6a5acd&hide_border=true&timestamp=1
+[![Portfolio Site](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=jacobfu&theme=rose_pine&icon_color=6a5acd&hide_border=true&timestamp=0
 )](https://github.com/fujacob/jacobfu)
 
 
