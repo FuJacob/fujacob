@@ -12,15 +12,6 @@ Feel free to reach out via email or connect with me on LinkedIn!
 
 <div align="center">
 
----
-[![Novel Novels](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=fairfi&theme=rose_pine&icon_color=6a5acd&hide_border=true&timestamp=0)](https://github.com/fujacob/fairfi)
-[![MelodyVe](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=MelodyVe&theme=rose_pine&icon_color=6a5acd&hide_border=true&timestamp=1)](https://github.com/fujacob/MelodyVe)
-[![EchoBl](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=EchoBl&theme=rose_pine&icon_color=6a5acd&hide_border=true&timestamp=1)](https://github.com/fujacob/EchoBl)
-[![AnonAlyze](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=AnonAlyze&theme=rose_pine&icon_color=6a5acd&hide_border=true&timestamp=1)](https://github.com/fujacob/AnonAlyze)
-[![Robo Investment Portfolio Generator](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=RoboInvestmentAdvisor&theme=rose_pine&icon_color=6a5acd&hide_border=true&timestamp=1)](https://github.com/fujacob/RoboInvestmentAdvisor)
-[![Novel Novels](https://github-readme-stats.vercel.app/api/pin?username=fujacob&repo=Novelnovels&theme=rose_pine&icon_color=6a5acd&hide_border=true&timestamp=0)](https://github.com/fujacob/Novelnovels)
-
-
 
 
 ---
