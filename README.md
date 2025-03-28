@@ -4,8 +4,7 @@
 
 <div align="justify">
 
-I'm a Computer Science and Finance student at the University of Waterloo. I am passionate about coding, financial markets, and everything in between. I’m always seeking to expand my knowledge in software development, cloud computing, and cybersecurity. When I’m not exploring the tech world, I’m either creating new projects, diving into data analytics, or working on innovative solutions. 
-
+wassup i code sometimes 
 Feel free to reach out via email or connect with me on LinkedIn!
 
 </div>
