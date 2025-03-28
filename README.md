@@ -4,9 +4,7 @@
 
 <div align="justify">
 
-wassup i code sometimes 
-Feel free to reach out via email or connect with me on LinkedIn!
-
+wassup i code sometimes
 </div>
 
 <div align="center">
