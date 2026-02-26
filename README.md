@@ -1,18 +1,6 @@
-<div>
-  <a href="https://hits.sh/github.com/fujacob/fujacob/">
-    <img src="https://hits.sh/github.com/fujacob/fujacob.svg?label=visitors" alt="viewers" />
-  </a>
+# Jacob Fu
+Engineering @ HubSpot · CS @ University of Waterloo · 
 
-  <h1>jacob fu</h1>
-</div>
+[Website](https://www.jacobfu.com/) | [LinkedIn](https://www.linkedin.com/in/fujacob/) | [Email](mailto:jjacobfu@gmail.com) | [X](https://x.com/fujacobb)
 
-- cs & finance @ uwaterloo
-- prev @hubspot
-
-<p>
-  <a href="https://www.linkedin.com/in/fujacob/">linkedin</a> •
-  <a href="mailto:jjacobfu@gmail.com">email</a> •
-  <a href="https://github.com/fujacob">github</a> •
-  <a href="https://x.com/fujacobb">x</a> •
-  <a href="https://www.jacobfu.com/">website</a>
-</p>
+![visitors](https://hits.sh/github.com/fujacob/fujacob.svg?label=visitors)
