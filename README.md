@@ -1,5 +1,5 @@
 # Jacob Fu
-Hi there! Here, you can find my wacky, random side-projects I've been working on. Some things about me:
+Hi there! Here, you can find my wacky, random side-projects I've been working on.
 
 Currently:
 - interning @ Uber in Sunnyvale, CA
