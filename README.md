@@ -1,6 +1,16 @@
 # Jacob Fu
-Engineering @ HubSpot · CS @ University of Waterloo
+Hi there! Here, you can find my wacky, random side-projects I've been working on. Some things about me:
 
-[Website](https://www.jacobfu.com/) | [LinkedIn](https://www.linkedin.com/in/fujacob/) | [Email](mailto:jjacobfu@gmail.com) | [X](https://x.com/fujacobb)
+Currently:
+- interning @ Uber in Sunnyvale, CA
+- studying CS @ University of Waterloo
+
+Next:
+- incoming intern @ Ramp in NYC, NY
+
+Previously:
+- interned @ HubSpot 2 times in Boston, MA
+
+[Website](https://www.jacobfu.com/) | [LinkedIn](https://www.linkedin.com/in/fujacob/) | [Email](mailto:hi@jacobfu.com) | [X](https://x.com/fujacobb)
 
 ![visitors](https://hits.sh/github.com/fujacob/fujacob.svg?label=visitors)
